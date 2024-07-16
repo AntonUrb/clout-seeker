@@ -17,6 +17,3 @@ Use command ``py passive.py -u "@user01"`` to check username availability across
 ### How does it work
 
 Script parses info from publicly available websites using http requests and Chrome Selenium automation. Overuse may trigger bot protection services.
-
-You can check video here: [DropBox](https://www.dropbox.com/scl/fi/ivms0nn3hzw6uxgoqe5am/passive.mkv?rlkey=iyw4i62ni0uwdn5vmg41j28gg&dl=0)<br>
-Audit questions are here: [Audit](https://github.com/01-edu/public/tree/master/subjects/cybersecurity/passive/audit)
