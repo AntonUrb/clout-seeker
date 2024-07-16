@@ -1,4 +1,4 @@
-## Implementation of "Passive"
+## Implementation of "clout-seeker"
 ### What is OSINT
 
 OSINT stands for Open Source Intelligence. It refers to the process of collecting and analyzing publicly available information from open sources, such as websites, social media, news articles, and government records, to gather intelligence and insights. OSINT is often used by various entities, including law enforcement agencies, government organizations, businesses, and individuals, for purposes such as security assessments, threat analysis, investigations, and competitive intelligence.
